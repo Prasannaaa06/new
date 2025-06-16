@@ -1,0 +1,12 @@
+Strings are sequences of characters. They are used to represent text in Python.
+
+String Creation:
+Strings can be created using single quotes ('...'), 
+double quotes ("..."), or triple quotes ('''...''' or """...""") for multi-line strings.
+
+String Immutability:
+Strings are immutable, meaning their content cannot be changed after creation. 
+Operations on strings create new strings.
+
+String as Arrays:
+Strings can be treated as arrays of characters, allowing access to individual characters using indexing (e.g., string[0]).
